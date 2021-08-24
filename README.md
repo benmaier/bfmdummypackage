@@ -1,7 +1,9 @@
+*Note: This is a dummy README for the package you want to build. For a README for the package builder, check out
+[PACKAGE_CREATION_README.md](https://github.com/benmaier/bfmdummypackage/blob/main/PACKAGE_CREATION_README.md)*
 
 ![logo](https://github.com/benmaier/bfmdummypackage/raw/main/img/Fig1.png)
 
-Description of this package
+Description of this package goes here.
 
 * repository: https://github.com/benmaier/bfmdummypackage/
 * documentation: http://bfmdummypackage.benmaier.org/

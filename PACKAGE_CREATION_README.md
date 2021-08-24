@@ -6,6 +6,7 @@ I use for my packages. It comes with
 * docs built with `sphinx` (including videos)
 * unittest structure for testing with `pytest`
 * CircleCI config
+* dummy paper script in format for JOSS
 * Python-code only (e.g. no C++)
 
 ## How-to
@@ -46,3 +47,7 @@ git commit -m "init"
 ```bash
 NEWPACKAGENAME=newpackagename ./prepare_package.sh
 ```
+
+## Notes
+
+It helps if you have `twine` configured for upload.
