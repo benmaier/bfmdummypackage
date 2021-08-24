@@ -21,7 +21,7 @@ jobs:
           name: Running tests
           command: |
             . venv/bin/activate
-            pytest --cov=bfmdummypackage bfmdummypackage/tests/
+            pytest bfmdummypackage/tests/
       - store_artifacts:
           path: test-reports/
           destination: bfmdummypackage
