@@ -3,6 +3,8 @@
 
 ![logo](https://github.com/benmaier/bfmdummypackage/raw/main/img/Fig1.png)
 
+[![CircleCI](https://circleci.com/gh/benmaier/bfmdummypackage.svg?style=svg)](https://circleci.com/gh/benmaier/bfmdummypackage)
+
 Description of this package goes here.
 
 * repository: https://github.com/benmaier/bfmdummypackage/
