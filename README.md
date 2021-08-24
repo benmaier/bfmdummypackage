@@ -1,5 +1,5 @@
 
-![logo](https://github.com/benmaier/bfmdummypackage/raw/master/img/Fig1.png)
+![logo](https://github.com/benmaier/bfmdummypackage/raw/main/img/Fig1.png)
 
 Description of this package
 
@@ -36,16 +36,16 @@ The full documentation is available at [bfmdummypackage.benmaier.org](http://bfm
 
 ## Changelog
 
-Changes are logged in a [separate file](https://github.com/benmaier/bfmdummypackage/blob/master/CHANGELOG.md).
+Changes are logged in a [separate file](https://github.com/benmaier/bfmdummypackage/blob/main/CHANGELOG.md).
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/benmaier/bfmdummypackage/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/benmaier/bfmdummypackage/blob/main/LICENSE).
 Note that this excludes any images/pictures/figures shown here or in the documentation.
 
 ## Contributing
 
-If you want to contribute to this project, please make sure to read the [code of conduct](https://github.com/benmaier/bfmdummypackage/blob/master/CODE_OF_CONDUCT.md) and the [contributing guidelines](https://github.com/benmaier/bfmdummypackage/blob/master/CONTRIBUTING.md). In case you're wondering about what to contribute, we're always collecting ideas of what we want to implement next in the [outlook notes](https://github.com/benmaier/bfmdummypackage/blob/master/OUTLOOK.md).
+If you want to contribute to this project, please make sure to read the [code of conduct](https://github.com/benmaier/bfmdummypackage/blob/main/CODE_OF_CONDUCT.md) and the [contributing guidelines](https://github.com/benmaier/bfmdummypackage/blob/main/CONTRIBUTING.md). In case you're wondering about what to contribute, we're always collecting ideas of what we want to implement next in the [outlook notes](https://github.com/benmaier/bfmdummypackage/blob/main/OUTLOOK.md).
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
 
