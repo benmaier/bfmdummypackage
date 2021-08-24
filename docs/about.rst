@@ -1,16 +1,19 @@
 About
 =====
-.. image:: https://github.com/benmaier/bfmdummypackage/raw/master/img/Fig1.png
+*Note: This is a dummy README for the package you want to build. For a
+README for the package builder, check
+out*\ `PACKAGE_CREATION_README.md <https://github.com/benmaier/bfmdummypackage/blob/main/PACKAGE_CREATION_README.md>`__
+
+.. image:: https://github.com/benmaier/bfmdummypackage/raw/main/img/Fig1.png
    :alt: logo
 
-Description of this package
+Description of this package goes here.
 
 -  repository: https://github.com/benmaier/bfmdummypackage/
 -  documentation: http://bfmdummypackage.benmaier.org/
 
 .. code:: python
 
-   import bfmdummypackage as epk
    from bfmdummypackage.sqrt import get_sqrt_2
 
    print(get_sqrt(2))
@@ -49,13 +52,13 @@ Changelog
 ---------
 
 Changes are logged in a `separate
-file <https://github.com/benmaier/bfmdummypackage/blob/master/CHANGELOG.md>`__.
+file <https://github.com/benmaier/bfmdummypackage/blob/main/CHANGELOG.md>`__.
 
 License
 -------
 
 This project is licensed under the `MIT
-License <https://github.com/benmaier/bfmdummypackage/blob/master/LICENSE>`__.
+License <https://github.com/benmaier/bfmdummypackage/blob/main/LICENSE>`__.
 Note that this excludes any images/pictures/figures shown here or in the
 documentation.
 
@@ -64,12 +67,12 @@ Contributing
 
 If you want to contribute to this project, please make sure to read the
 `code of
-conduct <https://github.com/benmaier/bfmdummypackage/blob/master/CODE_OF_CONDUCT.md>`__
+conduct <https://github.com/benmaier/bfmdummypackage/blob/main/CODE_OF_CONDUCT.md>`__
 and the `contributing
-guidelines <https://github.com/benmaier/bfmdummypackage/blob/master/CONTRIBUTING.md>`__.
+guidelines <https://github.com/benmaier/bfmdummypackage/blob/main/CONTRIBUTING.md>`__.
 In case you're wondering about what to contribute, we're always
 collecting ideas of what we want to implement next in the `outlook
-notes <https://github.com/benmaier/bfmdummypackage/blob/master/OUTLOOK.md>`__.
+notes <https://github.com/benmaier/bfmdummypackage/blob/main/OUTLOOK.md>`__.
 
 |Contributor Covenant|
 
