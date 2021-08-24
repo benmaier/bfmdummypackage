@@ -7,6 +7,8 @@ out*\ `PACKAGE_CREATION_README.md <https://github.com/benmaier/bfmdummypackage/b
 .. image:: https://github.com/benmaier/bfmdummypackage/raw/main/img/Fig1.png
    :alt: logo
 
+|CircleCI|
+
 Description of this package goes here.
 
 -  repository: https://github.com/benmaier/bfmdummypackage/
@@ -16,7 +18,7 @@ Description of this package goes here.
 
    from bfmdummypackage.sqrt import get_sqrt_2
 
-   print(get_sqrt(2))
+   print(get_sqrt_2())
 
 Install
 -------
@@ -107,5 +109,7 @@ until the warnings disappear. Then do
 
    make upload
 
+.. |CircleCI| image:: https://circleci.com/gh/benmaier/bfmdummypackage.svg?style=svg
+   :target: https://circleci.com/gh/benmaier/bfmdummypackage
 .. |Contributor Covenant| image:: https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg
    :target: code-of-conduct.md

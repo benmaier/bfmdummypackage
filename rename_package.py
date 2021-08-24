@@ -24,7 +24,6 @@ for file in this_dir.glob("**/*"):
     if file.is_file() and \
        ((file.suffix[1:] in include_fileendings) or (file.name in include_files)) and \
        file.name not in exclude_files:
-        print(file)
         with open(file,'r') as f:
             text = f.read()
             new_text = text.replace("bfmdummypackage",new_name)
