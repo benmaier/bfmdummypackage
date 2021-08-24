@@ -5,7 +5,7 @@ set -e
 
 rm -rf .git
 git init
-python rename_package.py $NEWPACKAGENAME
+python3 rename_package.py $NEWPACKAGENAME
 rm rename_package.py
 rm PACKAGE_CREATION_README.md
 rm prepare_package.sh
